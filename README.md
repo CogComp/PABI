@@ -1,5 +1,5 @@
 # PABI
-This is the code repository for the ArXiv paper [Foreshadowing the Benefits of Incidental Supervision](https://arxiv.org/pdf/2006.05500.pdf).
+This is the code repository for the ArXiv paper [Foreseeing the Benefits of Incidental Supervision](https://arxiv.org/pdf/2006.05500.pdf).
 If you use this code for your work, please cite
 ```
 @article{he2020foreshadowing,

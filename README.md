@@ -1,12 +1,14 @@
 # PABI
-This is the code repository for the ArXiv paper [Foreseeing the Benefits of Incidental Supervision](https://arxiv.org/pdf/2006.05500.pdf).
+This is the code repository for the EMNLP paper [Foreseeing the Benefits of Incidental Supervision](https://cogcomp.seas.upenn.edu/page/publication_view/959).
 If you use this code for your work, please cite
 ```
-@article{he2020foreshadowing,
-  title={Foreshadowing the Benefits of Incidental Supervision},
-  author={He, Hangfeng and Zhang, Mingyuan and Ning, Qiang and Roth, Dan},
-  journal={arXiv preprint arXiv:2006.05500},
-  year={2020}
+@inproceedings{HZNR21,
+    author = {Hangfeng He and Mingyuan Zhang and Qiang Ning and Dan Roth},
+    title = {{Foreseeing the Benefits of Incidental Supervision}},
+    booktitle = {Proc. of the Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+    year = {2021},
+    url = "https://cogcomp.seas.upenn.edu/papers/HZNR21.pdf",
+    funding = {LwLL, MURI, CwC},
 }
 ```
 
